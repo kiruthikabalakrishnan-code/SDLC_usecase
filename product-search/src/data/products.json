@@ -1,0 +1,14 @@
+[
+  { "id": "wireless-headphones", "name": "Wireless Headphones", "category": "Electronics", "price": 129.99, "image": "/placeholder.svg" },
+  { "id": "smartphone-stand", "name": "Smartphone Stand", "category": "Electronics", "price": 19.99, "image": "/placeholder.svg" },
+  { "id": "ceramic-mug", "name": "Ceramic Mug", "category": "Home", "price": 12.5, "image": "/placeholder.svg" },
+  { "id": "linen-shirt", "name": "Linen Shirt", "category": "Clothing", "price": 34, "image": "/placeholder.svg" },
+  { "id": "desk-lamp", "name": "Desk Lamp", "category": "Home", "price": 45, "image": "/placeholder.svg" },
+  { "id": "bluetooth-speaker", "name": "Bluetooth Speaker", "category": "Electronics", "price": 59.95, "image": "/placeholder.svg" },
+  { "id": "cotton-t-shirt", "name": "Cotton T-Shirt", "category": "Clothing", "price": 18, "image": "/placeholder.svg" },
+  { "id": "storage-basket", "name": "Storage Basket", "category": "Home", "price": 22.75, "image": "/placeholder.svg" },
+  { "id": "laptop-sleeve", "name": "Laptop Sleeve", "category": "Electronics", "price": 28.5, "image": "/placeholder.svg" },
+  { "id": "wool-scarf", "name": "Wool Scarf", "category": "Clothing", "price": 42, "image": "/placeholder.svg" },
+  { "id": "water-bottle", "name": "Water Bottle", "category": "Home", "price": 16.25, "image": "/placeholder.svg" },
+  { "id": "wireless-mouse", "name": "Wireless Mouse", "category": "Electronics", "price": 24.99, "image": "/placeholder.svg" }
+]
