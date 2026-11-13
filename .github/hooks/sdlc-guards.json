@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "type": "command",
+        "command": "node .github/hooks/agent-safety-guard.js",
+        "timeout": 10
+      },
+      {
+        "type": "command",
+        "command": "node .github/hooks/pr-publication-gate.js",
+        "timeout": 10
+      }
+    ]
+  }
+}
